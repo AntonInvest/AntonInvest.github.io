@@ -3660,7 +3660,8 @@ section.lazy-placeholder:after {
   word-break: break-word;
 }
 .cid-s4PWF9Cevs .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
+  text-align: center;
 }
 .cid-s4PWF9Cevs .card-title {
   font-weight: 500;
@@ -3701,4 +3702,10 @@ section.lazy-placeholder:after {
 }
 .cid-s4PWF9Cevs .mbr-crt-title {
   text-align: center;
+}
+.cid-s4PWF9Cevs .mbr-section-title {
+  text-align: center;
+}
+.cid-s4PWF9Cevs .mbr-section-text {
+  color: #232323;
 }

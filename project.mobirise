@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trade Capital",
-    "currentPage": "Видео отзывы.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3788,7 +3788,8 @@
               "word-break": "break-word"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#232323",
+              "text-align": "center"
             },
             ".card-title": {
               "font-weight": "500"
@@ -3834,6 +3835,12 @@
             },
             ".mbr-crt-title": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "color": "#232323"
             }
           },
           "_name": "features12",
