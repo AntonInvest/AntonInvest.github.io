@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trade Capital",
-    "currentPage": "page4.html",
+    "currentPage": "О Брокере.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -622,7 +622,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
+        "order": 1,
         "meta_image": "@PROJECT_PATH@/assets/images/photo_2020-07-11_23-34-25-1207x657.jpg"
       },
       "components": [
@@ -2725,7 +2725,7 @@
       "settings": {
         "meta_descr": "Торговый робот\nДоход от 10 % до 20%",
         "title": "Видео отзывы",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -3314,11 +3314,11 @@
         }
       ]
     },
-    "page4.html": {
+    "О Брокере.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "",
         "title": "О Брокере",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
