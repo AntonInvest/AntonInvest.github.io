@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trade Capital",
-    "currentPage": "page 2.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4566,7 +4566,7 @@
         }
       ]
     },
-    "page 2.html": {
+    "page2.html": {
       "settings": {
         "meta_descr": "Торговый робот\nДоход от 10 % до 20%",
         "title": "О Нас",
